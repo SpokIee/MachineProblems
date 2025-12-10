@@ -1,8 +1,3 @@
-html {
-    scroll-bheavior: smooth;
-}
-
-
 body {
     font-family: Roboto, sans-serif;
     margin: center;
@@ -44,3 +39,18 @@ input[type=button]:hover {
     color: #333;
     margin-top: 10px;
 }
+
+.footer {
+    
+    margin-top: 50px;
+    font-size: 14px;
+    color: #000000;
+}
+
+/*
+
+Author: Raphael Miguel P. Dumdum
+Date Created: December 12, 2025
+
+*/
+
